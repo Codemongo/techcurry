@@ -1,2 +1,2 @@
 # techcurry
-techcurry demo
+techcurry website development
